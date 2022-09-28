@@ -43,14 +43,15 @@
 
 .name {
     color: #D6DBDF;
-    font-size: 25px;
+    font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .profession {
     color: #eeeeee;
-    font-size: 20px;
+    font-size: 16px;
     text-transform: uppercase;
     text-align: center;
 }
